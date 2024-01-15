@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="etapa" id="4AC82594-F2B8-0C19-C067-CE2B06915168" version="3.5">
+<createdBy>User</createdBy>
+<createdTime>2023-11-02 23:09:26 UTC</createdTime>
+<ownerDesignName>etapa</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>4AC82594-F2B8-0C19-C067-CE2B06915168</designId>
+</OSDM_Design>
